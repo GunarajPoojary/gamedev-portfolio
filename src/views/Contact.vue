@@ -3,36 +3,28 @@
     
     <h1>Let's get in touch</h1>
 
-    <div style="margin-bottom:40px;">I'm looking for a job !<br/>Feel free to contact me about any opportunity, or just to chat about cooking, kittens or anything else.</div>
+    <div style="margin-bottom:40px;">I am currently seeking opportunities to work! Feel free to contact me about any opportunity.</div>
 
     <ul>
       <li>
-        <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="http://mywebsite.com" target="_blank">https://mywebsite.com</a>
-      </li>
-      <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
-        <a href="mailto:my@email.com" target="_blank">my@email.com</a>
+        <a href="mailto:gunarajpoojary579@email.com" target="_blank">gunarajpoojary579@email.com</a>
       </li>
       <li>
         <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/me" target="_blank">linkedin.com/me</a>
+        <a href="https://www.linkedin.com/in/gunarajpoojary" target="_blank">linkedin.com/in/gunarajpoojary</a>
       </li>
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
-        <a href="https://github.com/me" target="_blank">github.com/me</a>
+        <a href="https://github.com/GunarajPoojary" target="_blank">github.com/GunarajPoojary</a>
       </li>
       <li>
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://myself.itch.io" target="_blank">myself.itch.io</a>
-      </li>
-      <li>
-        <i class="fa fa-tumblr fa-lg fa-fw"></i>
-        <a href="https://myblog.tumblr.com" target="_blank">myblog.tumblr.com</a>
+        <a href="https://gunarajpoojary.itch.io/" target="_blank">gunarajpoojary.itch.io</a>
       </li>
       <li>
         <i class="fa fa-steam fa-lg fa-fw"></i>
-        <a href="https://steamcommunity.com/id/me" target="_blank">steam.com/me</a>
+        <a href="https://steamcommunity.com/profiles/76561199061804115/" target="_blank">steam.com/gunaraj</a>
       </li>
     </ul>
 

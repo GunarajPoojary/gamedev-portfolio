@@ -4,17 +4,19 @@
 
     <div class="paragraph">
       <div>
-        I'm <strong>John Matrix</strong>, a former Delta Force operative, now a hobbyist lumberjack.<br/>
-        I spend my days living alone with my daughter Jenny, and cutting trees and carrying trunks around to keep in shape.
+        I'm <strong>Gunaraj Poojary</strong>, a passionate Unity game developer with 6 months of work experience.<br>
+        I specialize in designing and building clean, scalable, and optimized C# code using industry-standard best practices.
       </div>
 
-      <div style="margin-top: 20px;">I've worked on  <router-link to="/game-projects">stuff</router-link>, on <router-link to="/other-projects">other stuff</router-link>, and took part in <router-link to="/resume">a few things</router-link> as well.</div>
+      <div> My expertise includes: Object-Oriented Programming, Programming Patterns, SOLID Principles, game logic implementation, API integration, and more.</div>
 
-      <div style="margin-top: 40px;">I'm <strong>currently looking for a job</strong> as a monk, like my good friend John Rambo did a few years back. You can reach me at <a href="mailto:johnmatrix@deltaforce.us">johnmatrix@deltaforce.us</a> or <router-link to="/contact">through here</router-link>.</div>
+      <div style="margin-top: 40px;">I am currently seeking opportunities to work on exciting projects that challenge my skills and allow me to grow as a developer.<br>
+        If you're looking for a dedicated and enthusiastic game developer, feel free to <router-link to="/contact">contact me</router-link>.
+        You can reach me at <strong>gunarajpoojary579@email.com</strong> or <router-link to="/contact">through here</router-link>.</div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar of John" /> 
+      <img src="img/avatar.png" alt="Avatar of Gunaraj" /> 
     </div>
 
     <div style="clear:both"></div>
@@ -33,6 +35,12 @@
   text-align: center;
 }
 
+.photo img {
+  width: 200px; /* Adjust this value as needed */
+  height: auto;
+  border-radius: 20px;
+}
+
 @media only screen and (min-width: 620px){
   .paragraph {
     float: left;
@@ -44,5 +52,4 @@
     padding-left: 80px;
   }
 }
-
 </style>
