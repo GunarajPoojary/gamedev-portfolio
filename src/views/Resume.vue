@@ -195,8 +195,8 @@ h4 {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  gap: 20px; /* optional spacing between columns */
-  flex-wrap: nowrap; /* set to 'wrap' if screen is small */
+  gap: 20px;
+  flex-wrap: wrap;
 }
 
 .skill-set {

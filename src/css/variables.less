@@ -2,3 +2,82 @@
 @contentBgColor: #434348;
 @textColor: #dcdcdc;
 @skillRateCircleColor: #ffffff;
+
+@media only screen and (max-width: 620px) {
+  body {
+    padding: 16px;
+    font-size: 15px;
+  }
+
+  .paragraph,
+  .photo,
+  .skill-set,
+  .full-content div {
+    max-width: 100%;
+    width: 100%;
+    float: none !important;
+    padding: 0 !important;
+    margin: 0 auto 20px auto;
+  }
+
+  .photo img {
+    width: 70%;
+    max-width: 220px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .skill-container {
+    flex-direction: column;
+    gap: 24px;
+    padding: 0 10px;
+  }
+
+  .skill-set {
+    min-width: unset;
+    width: 100%;
+  }
+
+  .projects-list {
+    padding: 10px;
+    display: block;
+  }
+
+  .project-item {
+    height: auto;
+    margin-bottom: 30px;
+  }
+
+  .title-bar {
+    padding: 10px;
+  }
+
+  .dialog-content {
+    padding: 20px !important;
+  }
+
+  .nav-bar {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .nav-bar a {
+    display: inline-block;
+    margin: 0 10px;
+    padding-bottom: 4px;
+    font-size: 0.9em;
+  }
+
+  .footer {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .footer .left,
+  .footer .right {
+    float: none !important;
+    text-align: center;
+    padding: 5px 0;
+  }
+}
